@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ocr-ui/static/css/main.c1d238fb.css",
+    "main.js": "/ocr-ui/static/js/main.ffa8b6ca.js",
+    "static/js/581.2bfe0b7f.chunk.js": "/ocr-ui/static/js/581.2bfe0b7f.chunk.js",
+    "index.html": "/ocr-ui/index.html",
+    "main.c1d238fb.css.map": "/ocr-ui/static/css/main.c1d238fb.css.map",
+    "main.ffa8b6ca.js.map": "/ocr-ui/static/js/main.ffa8b6ca.js.map",
+    "581.2bfe0b7f.chunk.js.map": "/ocr-ui/static/js/581.2bfe0b7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1d238fb.css",
+    "static/js/main.ffa8b6ca.js"
+  ]
+}
